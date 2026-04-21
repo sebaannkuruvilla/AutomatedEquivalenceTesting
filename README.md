@@ -10,8 +10,7 @@
 * ## Dependencies
 - [NetworkX](https://networkx.org/): For graph display
 
-* ## Contributors:
-- [crimsonId]: aklewis6,zaahmed,skuruvilla1
+* ## Group: aklewis6,zaahmed,skuruvilla1 [crimson id]
 
 # References:
 * "Introduction to Algorithms"  by Cormen, Thomas H and Leiserson, Charles E and Rivest, Ronald L and Stein, Clifford 
