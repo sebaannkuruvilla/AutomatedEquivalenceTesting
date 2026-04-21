@@ -10,7 +10,7 @@
 * ## Dependencies
 - [NetworkX](https://networkx.org/): For graph display
 
-* ##Contributors:
+* ## Contributors:
 - [crimsonId]: aklewis6,zaahmed,skuruvilla1
 
 # References:
