@@ -3,8 +3,8 @@
 * Problem Chosen : SSSP in Graphs
 * Three Modules :
   * Random Graph Generator : Generates a random weighted directed graph
-  * TestData Generator : Generates test data for the graph created by the Random Graph Generator based on the test scenarios
-  * Testing module : Test Solvers for Equivalence using the Test data using Differential and Metamorphic Testing
+  * TestData Generator : Can generate test data for a graph created by the Random Graph Generator based on the test scenarios
+  * Testing module : Test Solvers for Equivalence using the Test data via Differential and Metamorphic Testing
 
 
 * ## Dependencies
